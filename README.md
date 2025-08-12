@@ -13,3 +13,10 @@ The goal is to practice fundamental OOP concepts, applying them in different pro
 - Basic polymorphism
 
 ## Repository Structure
+├── examples/ # Example code presented in class
+├── exercises/ # Proposed exercises
+└── README.md # This file
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/rafaelrezo/poo-course.git/intro-oop-repository.git
